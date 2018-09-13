@@ -1,4 +1,4 @@
-# ryan-andri.github.io
+# strangenoob.github.io or jyotiraditya.tk
 ---
 ### Credits
 https://vincentgarreau.com/particles.js for Particles.js
