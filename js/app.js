@@ -26,7 +26,7 @@ particlesJS('particles-js',
         "value": "#6226DD"
       },
       "shape": {
-        "type": "edgr",
+        "type": "edge",
         "stroke": {
           "width": 0,
           "color": "#919191"
