@@ -1,4 +1,4 @@
-# strangenoob.github.io or jyotiraditya.tk
+# Dark-Matter7232.github.io
 ---
 ### Credits
 https://vincentgarreau.com/particles.js for Particles.js
